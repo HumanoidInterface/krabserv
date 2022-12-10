@@ -9,6 +9,8 @@ in_header: true
 
 Bienvenue sur le flambant neuf Krabserv IV, successeur du Krabserv 3 (mort d'inactivité) et du Krabserv 2 (mort d'un incendie).
 
+<img src="https://api.loohpjames.com/serverbanner.png?ip=mc.kraby.xyz&offlinemessage=the%20server%20is%20offline%20:(&backgroundurl=https://i.imgur.com/216aFJY.png&name=Krabserv%20IV">
+
 ## Nouveautés
 
 Plusieurs plugins ont été rajoutés pour changer un peu l'expérience de jeu, leur description est disponible dans la page plugins. Mais brièvement :

@@ -27,6 +27,14 @@ Les joueurs ont 2 statuts de PvP possibles :
 Grossièrement, acceptez d'être tué pour tuer. Les joueurs PvP ont une icone ⚔ rouge dans la liste des joueurs.
 Vous pouvez demander le statut PvP sur le serveur discord ou en MP.
 
+### Règles spéciales sur les fermes automatiques
+
+Sont interdits :
+1. D'utiliser un autoclicker, ou un anti AFK
+2. Les fermes à pêche, et plus généralement toute ferme qui permettrait de monter un skill trop rapidement
+3. Les usines à raid
+4. Les exploits pour tuer le wither
+
 
 ## Règles générales
 1. Soyez courtois, respectez les autres, ne soyez pas de mauvaise foi
