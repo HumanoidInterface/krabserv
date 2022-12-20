@@ -51,6 +51,13 @@ Les Elites lachent systématiquement une monnaie propre (des Elite Coins), cette
 
 A force de tuer des Elite vous risquez d'être ensevelis par des items plus ou moins utiles. Si vous n'en avez plus l'utilité, vous pouvez les recycler au ferrailleur, qui vous donnera une ferraille par objet (si vous avez de la chance). Ces ferrailles peuvent ensuite être utilisées pour améliorer un de vos objets (en créant une orbe d'amélioration) ou les réparer. Vous pouvez aussi revendre ces items dans le shop d'items Elite.
 
+## Quêtes
+Pour prendre une quête, faites clic-droit sur un PNJ donneur de quête. Une quête verte signifie que vous pouvez la prendre, rouge signifie que la quête est en cours, et orange signifie que vous pouvez compléter la quête.
+
+Les quêtes ne se terminent pas automatiquement en tuant les mobs requis / récupérant les objets de quête. Il faut retourner voir le PNJ qui vous a donné la quête pour la terminer (en selectionnant la quête et en cliquant sur l'émeraude en bas).
+
+Pour voir les quêtes en cours, les suivre ou arrêter de les suivre, faites `/em` et cliquez sur le livre avec une plume en bas à gauche.
+
 ## Menus
 
 `/em` permet d'ouvrir le menu principal du plugin :
@@ -66,7 +73,7 @@ Pour désactiver le spawn d'Elites autour de vous, choisissez le rang 0 tout en 
 
 - `/em` : interface principale du plugin
 - `/shareitem` : partager dans le chat l'item que vous avez en main B)
-- `/em customshop` : menu de shop d'équipements Elites (achat et vente)
+- `/em shop` : menu de shop d'équipements Elites (achat et vente)
 - `/em scrap` : menu de recyclage d'équipement (ferrailleur)
 - `/em craft` : menu de création d'orbe d'amélioration
 - `/em enhance` : menu d'amélioration d'équipement
