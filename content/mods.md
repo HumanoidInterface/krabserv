@@ -21,3 +21,4 @@ La triforce des mods :
 - [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) : in-dis-pen-sable pour jouer en multijoueur. Sauvegarde sur votre PC tous les chunks vus en multijoueur, pour que vous puissiez avoir une distance de rendu importante en multi (même si le serveur vous envoie peu de chunks).
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights): permet d'avoir des lumières dynamiques (par exemple la torche dans votre main)
 - [IrisShader](https://www.curseforge.com/minecraft/mc-mods/irisshaders): permet d'installer des shaders. (recommandation de shader: ComplementaryShaders)
+- [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) : permet de trier vos coffres avec un clic molette
