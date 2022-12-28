@@ -12,3 +12,4 @@ permalink: /tutorials/
 - [Terra]({{ site.baseurl }}{% link content/terra.md %})
 - [TrainCart]({{ site.baseurl }}{% link content/traincart.md %})
 - [BigDoors]({{ site.baseurl }}{% link content/bigdoors.md %})
+- [Tweaks]({{ site.baseurl }}{% link content/tweaks.md %})
