@@ -13,3 +13,5 @@ permalink: /tutorials/
 - [TrainCart]({{ site.baseurl }}{% link content/traincart.md %})
 - [BigDoors]({{ site.baseurl }}{% link content/bigdoors.md %})
 - [Tweaks]({{ site.baseurl }}{% link content/tweaks.md %})
+- [Skins]({{ site.baseurl }}{% link content/skins.md %})
+- [Graves]({{ site.baseurl }}{% link content/graves.md %})
