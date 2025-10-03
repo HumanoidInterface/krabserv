@@ -34,6 +34,7 @@ Résumé des changements:
 - 1 bloc dans le nether = 1 bloc dans l'overworld
 - l'End est désactivé
 - le monde a une world border de 2000x2000 blocs (temporaire)
+- vous laissez des tombes en mourant, si vous tenez l'objet adéquat dans votre inventaire
 
 Détail important : ne cassez pas les coffres des structures, leur contenu est regénéré aléatoirement, ce qui permettra à d'autres joueurs de les (re)looter plus tard.
 
@@ -47,4 +48,4 @@ A la place des enchantements, chaque objet possède un certain nombre d'**emplac
 
 ### Progression du serveur
 
-Le serveur 
+Ca reste à déterminer, mais le serveur aura plusieurs événéments/défis/collaborations pour débloquer de nouvelles fonctionnalités (Comme débloquer des magasins, des quêtes, des mobarena, ou étendre la taille maximale de la map !)

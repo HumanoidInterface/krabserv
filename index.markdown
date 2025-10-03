@@ -15,5 +15,3 @@ Vous voulez un topo rapide pour commencer à jouer ?
 
 <img src="https://api.loohpjames.com/serverbanner.png?ip=mc.kraby.xyz&offlinemessage=the%20server%20is%20offline%20:(&backgroundurl=https://i.imgur.com/216aFJY.png&name=Krabserv%20V">
 
-## Nouveautés
-
