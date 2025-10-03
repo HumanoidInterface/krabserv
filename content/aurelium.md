@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Aurelium Skills
+title: AuraSkills
 categories: plugins
 ---
 
 ## Description
 
-J'ai la flemme de détailler pour l'instant, mais en gros c'est le remplacant de McMMO sur le serveur.
+NOTE: Les screenshots de cette page ne sont pas à jour, certains skills sont désactivés dans cette version du serveur, mais toutes les explications restent valide.
 
 ## Skills
 
@@ -15,7 +15,7 @@ Vous pouvez accéder à la liste des skills à l'aide de `/skills`, vous tombere
 
 ![skills menu](media/aurelium_skillsmenu.png)
 
-Vous pouvez voir ici l'ensemble des 15 skills disponibles. Cliquez sur l'un d'eux pour accéder à son menu. Par exemple pour Farming :
+Vous pouvez voir ici l'ensemble des skills disponibles. Cliquez sur l'un d'eux pour accéder à son menu. Par exemple pour Farming :
 
 ![farming menu](media/aurelium_farmingmenu.png)
 

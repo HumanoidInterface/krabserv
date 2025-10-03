@@ -11,4 +11,4 @@ Chaque joueur peut avoir au maximum 100 tombes actives, après quoi les ancienne
 
 # Commandes
 
-`/graves` : afficher la liste de vos tombes (et leur coordonnées).
+`/graves` : afficher la liste de vos tombes.

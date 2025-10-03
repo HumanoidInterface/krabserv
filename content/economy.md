@@ -25,7 +25,7 @@ Commandes utilisateur
 - `/qs find <item>` : trouves tous les shop vendant des *item*s proches de vous
 
 Commandes de création/édition de shop
-- `/qs create <prix> <item> <quantité>` : en regardant un coffre, crée un shop de vente d'*item* pour *prix* les *quantité* items
+- `/qs create <prix> <item> <quantité>` : en regardant un coffre, crée un shop de vente d'*item* pour *prix*$ les *quantité* items
 - `/qs sell` : en regardant un shop, en fait un magasin de vente
 - `/qs buy` : en regardant un shop, en fait un magasin d'achat
 - `/qs price <prix>` : en regardant un shop, change le prix du shop en *prix*
