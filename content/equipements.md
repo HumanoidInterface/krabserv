@@ -20,6 +20,7 @@ Les recettes des équimements (outils et armures) n'ont pas changé, mais à par
 
 Les équipements que vous trouverez dans les coffres seront des versions "Anciennes", qui ont des effets bonus, et demandent un niveau minimum plus bas.
 
+Comme vous l'avez remarqué, vous n'avez pas accès à la pioche de fer avant le niveau 40 ! Pour compenser ça, vous pouvez faire une **Piochette de fer** en remplacant les lingots de fer par des pépites. Elle a une durabilité extrêmement faible en contrepartie, mais elle vous permettra de miner l'or et le diamant.
 
 ### Améliorer l'efficacité et la durabilité
 
