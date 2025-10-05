@@ -9,7 +9,7 @@ in_header: true
 
 ### Launcher
 
-Préférez le launcher [Prism](https://prismlauncher.org/download/) à celui par défaut de minecraft. Il permet d'installer des mods et gérer des versions de minecraft très facilement !
+Préférez le launcher [Prism](https://prismlauncher.org/download/windows/) à celui par défaut de minecraft. Il permet d'installer des mods et gérer des versions de minecraft très facilement !
 
 ### Mods
 
